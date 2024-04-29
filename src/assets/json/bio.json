@@ -1,0 +1,13 @@
+{
+    "firstName": "Hamit Issaka",
+    "lastName": "MOUSSA",
+    "intro": [ "I'm a software engineer with a passion for Data, web développement, Machine Learning and AI",
+                "I am currently based in France", 
+                "You can have a look at some of my work here."
+             ],
+    "about":[ "I'm Chadian and i love computer science", 
+               "After my scientific baccalaureat in 2014, i have studied computer and networing in Morocco at EMSI school", 
+               "Then, I had a computer science licence in Nantes university in 2018",
+               "Finally, I obtained my master's equivalent in computer science and information systems"
+            ]
+}

@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Data sciententist for Capgemini Insights&Data",
+        "stack": {
+            "name": "Python",
+            "iconClasses": "fab fa-Python"
+        },
+        "description": "Implementing an image processing model. The program allows you to identify objects in images. As part of this vehicle manufacturing project.",
+        "sourceUrl": "",
+        "previewUrl": "",
+        "featured": false
+    }
+]
