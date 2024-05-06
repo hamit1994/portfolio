@@ -13,7 +13,6 @@ import { HeaderComponent } from './header/header.component';
   imports: [
     CommonModule,
     RouterModule,
-    NgModule,
     NgbModule,
     HttpClientModule
   ],

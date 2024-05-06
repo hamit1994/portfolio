@@ -9,7 +9,7 @@
             </div>
             <div class="card-body d-flex flex-column">
                 <h5 class="card-title post-title" [title]="page.title">{{page.title}}</h5>
-                <p class="card-text post-description flex-grow-1">{{page.description}}</p>
+                <p class="card-text post-description flex-grow-1">{{page['description']}}</p>
                 <a [routerLink]="page.route" class="btn btn-outline-dark align-self-center">
                     <i class="fa-lg mr-1 far fa-eye"></i>
                     Read
